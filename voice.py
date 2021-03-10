@@ -114,8 +114,7 @@ class voice:
                     
                     
                     
-                    
-                    
+                     
                     
                     
                 else:
